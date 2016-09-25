@@ -1,0 +1,3 @@
+[submodule "themes/jekyll"]
+	path = themes/jekyll
+	url = https://github.com/caiwangwhu/hexo-theme-jekyll.git
