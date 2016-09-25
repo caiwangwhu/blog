@@ -12,7 +12,7 @@ install:
 script:
 #- git submodule init      # 用于更新主题
 #- git submodule update
-- hexo generate
+- hexo clean && hexo generate
 #- hexo s
 after_script:
   - cd ./public
