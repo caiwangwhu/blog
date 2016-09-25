@@ -1,3 +1,6 @@
 [submodule "themes/jekyll"]
 	path = themes/jekyll
 	url = https://github.com/caiwangwhu/hexo-theme-jekyll.git
+[submodule "themes/hexo-theme-clean-blog"]
+	path = themes/hexo-theme-clean-blog
+	url = https://github.com/caiwangwhu/hexo-theme-clean-blog.git
