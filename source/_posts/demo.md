@@ -1,4 +1,4 @@
-title: 辨析 Sass 中的 Map 和 List Test
+title: 辨析 Sass 中的 Map 和 List
 date: 2015-10-21 10:34:12
 tags:
 - css
